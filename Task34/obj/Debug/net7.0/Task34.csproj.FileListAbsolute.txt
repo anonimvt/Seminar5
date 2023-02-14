@@ -1,0 +1,15 @@
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\bin\Debug\net7.0\Task34.exe
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\bin\Debug\net7.0\Task34.deps.json
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\bin\Debug\net7.0\Task34.runtimeconfig.json
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\bin\Debug\net7.0\Task34.dll
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\bin\Debug\net7.0\Task34.pdb
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\obj\Debug\net7.0\Task34.csproj.AssemblyReference.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\obj\Debug\net7.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\obj\Debug\net7.0\Task34.AssemblyInfoInputs.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\obj\Debug\net7.0\Task34.AssemblyInfo.cs
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\obj\Debug\net7.0\Task34.csproj.CoreCompileInputs.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\obj\Debug\net7.0\Task34.dll
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\obj\Debug\net7.0\refint\Task34.dll
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\obj\Debug\net7.0\Task34.pdb
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\obj\Debug\net7.0\Task34.genruntimeconfig.cache
+C:\Users\rinat\OneDrive\Рабочий стол\Проекты Си-Шарп\Seminars\Seminar5\Task34\obj\Debug\net7.0\ref\Task34.dll
