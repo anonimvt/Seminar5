@@ -1,4 +1,4 @@
-﻿Console.Clear();
+Console.Clear();
 
 // Создание и заполнение массива
 int[] arr = new int[4];
@@ -10,7 +10,7 @@ for(int i = 0; i < 4; i++)
 
 // Нахождение нечетных элементов массива
 int sum = 0;
-for (int i = 0; i < arr.Length; i+=2)
+for (int i = 1; i < arr.Length; i+=2)
     sum = sum + arr[i];
 
 // Вывод массива и суммы нечетных элементов массива
